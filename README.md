@@ -1,0 +1,2 @@
+# EnglishF**k
+The commands are `+-,.<>[]`, in that order. The command starts at `+`. Each phrase will rotate the current command forward by the number of words with odd length in the sentence minus the number of words with even length in the phrase. The punctuation marks are `.!?,;:`. `.` will run the command once, `!` twice, `?` four times, `,` eight, `;` sixteen, and `:` thirty-two. Only characters `[A-Za-z0-9_-]` are considered word characters; all others are word separators.
