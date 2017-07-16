@@ -43,8 +43,6 @@ def BFinterpret(commands):
 					brackets += 1
 		index += 1
 	print()
-	print(tape)
-	print()
 
 def interpret(code):
 	command = 0
